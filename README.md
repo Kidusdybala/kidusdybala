@@ -2,10 +2,9 @@
 
 💻 **Information Systems Student | Web Developer | Tech Enthusiast**  
 
-I’m passionate about building impactful digital solutions and continuously improving my skills in **full-stack development, system design, and AI integration**.  
+Problem solver at heart, full-stack by trade, AI by curiosity
 
 ---
-
 ## 📊 GitHub Overview  
 
 <p align="center">
