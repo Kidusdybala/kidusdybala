@@ -6,15 +6,23 @@ I’m passionate about building impactful digital solutions and continuously imp
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently learning **Machine Learning integration in Laravel**  
-- 💼 Experienced in **Laravel, React, Node.js, PHP, MySQL, MongoDB**  
-- ⚡ Passionate about **clean, maintainable, and reusable code**  
-- 🤝 Open to collaborations on **web apps, open source, and innovative tech projects**  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kidusdybala&show_icons=true&theme=radical" alt="Kidus' GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidusdybala&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidusdybala&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Tech Stack  
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -22,20 +30,10 @@ I’m passionate about building impactful digital solutions and continuously imp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-## 📌 Featured Projects  
-- 🚗 [Smart Parking System](#) – Laravel-based system with wallet payments & ML recommendations  
-- 📨 [Document Management System](#) – React + Laravel app for ministry workflow automation  
-- 🤖 [Hackathon Projects](#) – AI-powered prototypes and innovative web apps  
 
 ---
 
@@ -43,7 +41,3 @@ I’m passionate about building impactful digital solutions and continuously imp
 - 📧 Email: **buddykk07@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/kidus-adu](#)  
 - 🐦 Twitter: [@kidusdybala](#)  
-
----
-
-⭐️ _“Code should not just solve problems — it should inspire solutions.”_
