@@ -36,6 +36,5 @@ Problem solver at heart, full-stack by trade, AI by curiosity
 
 ## 📫 Let’s Connect  
 
-- 📧 Email: **buddykk07@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/kidus-adu](#)  
-- 🐦 Twitter: [@kidusdybala](#)  
+- 📧 Email: **sam684751@gmail.com**  
+- 💼 LinkedIn: [https://www.linkedin.com/in/kidusadugna/](https://www.linkedin.com/in/kidusadugna/)  
