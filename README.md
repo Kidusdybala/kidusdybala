@@ -6,25 +6,23 @@ I’m passionate about building impactful digital solutions and continuously imp
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kidusdybala&show_icons=true&theme=radical" alt="Kidus' GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidusdybala&show_icons=true&theme=radical" alt="Kidus' GitHub stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kidusdybala&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kidusdybala&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidusdybala&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidusdybala&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kidusdybala&theme=radical&utcOffset=3" alt="Commit Time"/>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -38,6 +36,7 @@ I’m passionate about building impactful digital solutions and continuously imp
 ---
 
 ## 📫 Let’s Connect  
+
 - 📧 Email: **buddykk07@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/kidus-adu](#)  
 - 🐦 Twitter: [@kidusdybala](#)  
