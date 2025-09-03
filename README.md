@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kidus Adugna  
+# 👋 Hi, I'm Kidus Adugna  
 
 💻 **Information Systems Student | Web Developer | Tech Enthusiast**  
 
@@ -8,8 +8,8 @@ Problem solver at heart, full-stack by trade, AI by curiosity
 ## 📊 GitHub Overview  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidusdybala&show_icons=true&theme=radical" alt="Kidus' GitHub stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kidusdybala&theme=radical" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kidusdybala&show_icons=true&theme=radical&include_all_commits=true" alt="Kidus' GitHub stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kidusdybala&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ Problem solver at heart, full-stack by trade, AI by curiosity
 
 ---
 
-## 📫 Let’s Connect  
+## 📫 Let's Connect  
 
 - 📧 Email: **sam684751@gmail.com**  
 - 💼 LinkedIn: [https://www.linkedin.com/in/kidusadugna/](https://www.linkedin.com/in/kidusadugna/)  
