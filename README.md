@@ -2,7 +2,7 @@
 
 💻 **Information Systems Student | Web Developer | Tech Enthusiast**  
 
-Problem solver at heart, full-stack by trade, AI by curiosity
+Problem observer by mind, full-stack for life
 
 ---
 ## 📊 GitHub Overview  
